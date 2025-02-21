@@ -169,3 +169,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Data and models  
+data/raw/  
+data/preprocessed/  
+models/  
+logs/  
+
+# API keys and environment variables  
+.env  
+
+# Jupyter Notebook checkpoints  
+.ipynb_checkpoints/
